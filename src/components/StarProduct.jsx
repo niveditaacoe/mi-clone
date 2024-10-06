@@ -1,4 +1,4 @@
-import '../styles/StarProduct.css'
+import '../styles/starProduct.css'
 const StarProduct = ({starProduct}) => {
   return (
     <div className="starProduct">
